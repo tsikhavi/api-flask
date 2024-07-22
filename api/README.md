@@ -117,7 +117,7 @@ FLASK_APP=app.py
 FLASK_ENV=development
 
 # Database
-DATABASE_URL=postgresql://sautis_user:password@localhost:5432/sautis
+DATABASE_URL=postgresql://sautis_user:password@localhost:5000/sautis
 ```
 
 Replace placeholders like `<repository-url>`, `<project-directory>`, `password`,
