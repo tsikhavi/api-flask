@@ -1,0 +1,15 @@
+Flask
+psycopg2-binary
+Flask-Mail
+Flask-JWT-Extended
+flask-swagger-ui
+flask-restx
+Flask-Cors
+bcrypt
+python-dotenv
+exceptiongroup
+nh3
+flask_socketio
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-OAuth
